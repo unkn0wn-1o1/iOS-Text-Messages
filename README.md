@@ -1,7 +1,7 @@
 <h1 align="center">iOS Text Messages</h1>
 
 ## About
-Hello and welcome! This is the iOS text messages that I coded to be used for my fics, but feel free to use them if you want (all i ask is for some sort of acknowledment or credit or something)
+Hello and welcome! This is the iOS text messages that I coded to be used for my fics, but feel free to use them if you want (all i ask is for some sort of acknowledment or credit)
 ### Fanfics + Examples
 This code has been used in the following fanfics of mine (plus an example from said fics):
 1. [Echoes of a Name](https://archiveofourown.org/works/68759771)
